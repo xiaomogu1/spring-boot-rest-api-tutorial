@@ -17,6 +17,8 @@ public class Application {
    * @param args the input arguments
    */
   public static void main(String[] args) {
+	  //mvn spring-boot:run
+
 		SpringApplication.run(Application.class, args);
 	}
 }
